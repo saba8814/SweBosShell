@@ -41,6 +41,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#resources">Resources</a></li> 
+    <li><a href="#files">Project files that are submitted</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
