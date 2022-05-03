@@ -135,7 +135,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Ejub Šabić - [@ejub.sabic](https://instagram.com/ejub.sabic) - ejub.sabic@stu.ibu.edu.ba
+Ejub Šabić - [@ejub.sabic](https://instagram.com/ejub.sabic) - ejub.sabic@stu.ibu.edu.ba 
+<br>
 Saliha Mustafić - [@iamsaliha](https://instagram.com/iamsaliha) - saliha.mustafic@stu.ibu.edu.ba
 
 
