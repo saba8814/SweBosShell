@@ -132,6 +132,11 @@ Shell part provides you with help command:
  ```
 Task3 part provides you with interactive menu that is navigated through using standard keyboard input:
 
+<div align="center">
+  <a href="https://github.com/saba8814/SweBosShell/">
+    <img src="https://prnt.sc/-0C7HTI9C_3N" width="240" height="80">
+  </a>
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
