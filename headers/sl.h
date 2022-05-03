@@ -1,22 +1,7 @@
 #include <time.h>
 void delay(int number_of_seconds);
 void display_sl();
-char* substring(char *destination, const char *source, int beg, int n);
 
-char* substring(char *destination, const char *source, int beg, int n)
-{
-    while (n > 0)
-    {
-        *destination = *(source + beg);
- 
-        destination++;
-        source++;
-        n--;
-    }
-
-    *destination = '\0';
-    return destination;
-}
 void delay(int number_of_seconds)
 {
     // Converting time into milli_seconds
