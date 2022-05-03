@@ -29,11 +29,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.guninetwork.org/files/logo_22.png" alt="Logo" width="120" height="80">
+  <a href="https://github.com/saba8814/SweBosShell/">
+    <img src="https://www.guninetwork.org/files/logo_22.png" alt="Logo" width="240" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SweBosShell</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
