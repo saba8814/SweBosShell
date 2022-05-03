@@ -133,7 +133,7 @@ Shell part provides you with help command:
 Task3 part provides you with interactive menu that is navigated through using standard keyboard input:
 
   <a href="https://github.com/saba8814/SweBosShell/">
-    <img src="https://user-images.githubusercontent.com/90252317/166501298-bd264825-1be2-4efb-97f2-4fc9cecb2749.png" width="240" height="80">
+    <img src="https://user-images.githubusercontent.com/90252317/166501298-bd264825-1be2-4efb-97f2-4fc9cecb2749.png" width="300" height="250">
   </a>
 
 
