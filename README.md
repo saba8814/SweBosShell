@@ -154,13 +154,12 @@ Below are the resources we used during project implementation:
 <!-- FILES -->
 ## Project files that are submitted:
 
-1. Folder - .vscode ---> contains file  <b> setting.json </b>
-2. Folder - headers ---> contain following files:<br />
+1. Folder - headers ---> contain following files:<br />
 <b>colors.h; command_handler.h; command_handler_task3.h; execexample.h; forkbomb.h; forkexample.h; help.h; ls.h; mkdir.h; sl.h; timer.h; uptime.h; vforkexample.h; waitexample.h </b> <br />
-3. README.md <br />
-4. answers.pdf ---> contains answers to the questions of task 1.5 <br />
-5. shell.c <br />
-6. task3.c file 
+2. README.md <br />
+3. answers.pdf ---> contains answers to the questions of task 1.5 <br />
+4. shell.c <br />
+5. task3.c file 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
