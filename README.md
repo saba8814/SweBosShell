@@ -107,10 +107,12 @@ Prerequisite to run this projects is to be running Linux Operating System as it 
    git clone https://github.com/saba8814/SweBosShell.git
    ```
 2. Compile shell.c using gcc compiler
-   ```gcc shell.c -o shell
+   ```
+   gcc shell.c -o shell
    ```
 3. Compile task3.c using gcc compiler
-   ```gcc task3.c -o task3
+   ```
+   gcc task3.c -o task3
    ```
 4. Run using ./shell for shell or ./task3 for task3
 
