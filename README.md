@@ -13,7 +13,8 @@
 
   <h3 align="center">SweBosShell</h3>
   <p align="center">
-    Project in CEN232 Operating Systems @ International Burch University.
+    Project in CEN232 Operating Systems @ International Burch University. <br />
+    https://github.com/saba8814/SweBosShell.git
     <br />
     <a href="https://github.com/saba8814/SweBosShell"><strong>Explore the docs »</strong></a>
     <br />
