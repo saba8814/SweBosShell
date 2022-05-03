@@ -50,35 +50,43 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+SweBosShell is a project submission in course CEN232 Operating Systems at International Burch University. SweBosShell is a project done by Ejub Šabić(currently living in Sweden) & Saliha Mustafić(currently living in Bosnia & Herzegovina), thus the name Swe(den)Bos(nia)Shell. Project is consisted out of three parts: shell.c is a solution to 1.1, 1.2. and 1.4 tasks, task3.c is a solution to task 1.3 and also imploments 1.4, while answers.pdf has answers to questions given in 1.5.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+shell.c has implementations for the following commands:
+* uptime
+* mkdir
+* help
+* sl
+* ls
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+task3.c has implementations for the following system calls:
+* fork()
+* vfork()
+* exec()
+* execl()
+* forkbomb - crashing PC using fork()
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+answers.pd has answers for the following questions:
+* The following actions, do they require the OS to use kernel mode or user mode is sufficient? Explain.
+  ● Starting a new process.
+  ● Multiplying two floating numbers stored in an application’s memory.
+  ● Writing the results of the multiplication to a temporary log file on disk.
 
-Use the `BLANK_README.md` to get started.
+*Explain the purpose of a system call. Describe how control passes to the kernel when executing a system call.
 
+ 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Project was made using C programming language in Linux Operating System that runs VS code.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Linux](https://www.linux.org/)
+* [C](https://www.cprogramming.com/)
+* [VSCode](https://code.visualstudio.com/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
