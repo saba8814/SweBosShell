@@ -36,8 +36,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#
-          isites">Prerequisites</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -92,8 +91,8 @@ Project was made using C programming language in Linux Operating System that run
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is an explanation of how to download and run this your project locally.
+To get a local copy and run them follow these simple example steps.
 
 ### Prerequisites
 
@@ -124,9 +123,14 @@ Prerequisite to run this projects is to be running Linux Operating System as it 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Shell part provides you with help command:
+ ```
+   help - gives list of all available commands
+   help [command] - gives explanation how given command is used
+ ```
+Task3 part provides you with interactive menu that is navigated through using standard keyboard input:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
