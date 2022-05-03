@@ -138,6 +138,7 @@ Task3 part provides you with interactive menu that is navigated through using st
 ## Resources 
 
 Below are the resources we used during project implementation: 
+<br />
 <a href="https://www.programiz.com/c-programming/c-file-input-output">C file input and output</a>
 <br />
 <a href="https://www.geeksforgeeks.org/exec-family-of-functions-in-c/">Exec family functions</a>
@@ -152,12 +153,13 @@ Below are the resources we used during project implementation:
 ## Project files that are submitted:
 
 1. Folder - .vscode ---> contains file  <b> setting.json </b>
-2. Folder - headers ---> contain following files:
- <br />
-<b>colors.h; command_handler.h; command_handler_task3.h; execexample.h; forkbomb.h; forkexample.h; help.h; ls.h; mkdir.h; sl.h; timer.h; uptime.h; vforkexample.h; waitexample.h </b>
-3. README.md
-4. answers.pdf ---> contains answers to the questions of task 1.5
-5. task3.c file 
+2. Folder - headers ---> contain following files:<br />
+<b>colors.h; command_handler.h; command_handler_task3.h; execexample.h; forkbomb.h; forkexample.h; help.h; ls.h; mkdir.h; sl.h; timer.h; uptime.h; vforkexample.h; waitexample.h </b> <br />
+3. README.md 
+<br />
+5. answers.pdf ---> contains answers to the questions of task 1.5
+<br />
+7. task3.c file 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
